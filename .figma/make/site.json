@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning portfolios from CVs while showcasing programming skills, perfect for job seekers and professionals looking to enhance their online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
